@@ -1,0 +1,16 @@
+Mon May 06 02:41:45 UTC 2019 : Apache Derby Network Server - 10.11.1.1 - (1616546) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon May 06 02:41:45 UTC 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-016a-8b04-bf8d-000005e72be0 
+on database directory /Users/wanyu/Documents/Coding/apache-druid-0.14.0-incubating/var/druid/metadata.db with class loader sun.misc.Launcher$AppClassLoader@1218025c 
+Loaded from file:/Users/wanyu/Documents/Coding/apache-druid-0.14.0-incubating/lib/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_192-b12
+user.dir=/Users/wanyu/Documents/Coding/apache-druid-0.14.0-incubating
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.4
+derby.system.home=null
+derby.stream.error.file=var/druid/derby.log
+Database Class Loader started - derby.database.classpath=''
+Mon May 06 15:13:28 UTC 2019 : Apache Derby Network Server - 10.11.1.1 - (1616546) shutdown
